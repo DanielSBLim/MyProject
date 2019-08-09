@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  클래스 등록  -->
+<beans>
+   <bean id="list.do" class="com.sist.model.ListModel"/>
+   <bean id="detail.do" class="com.sist.model.DetailModel"/>
+   <bean id="insert.do" class="com.sist.model.InsertModel"/>
+   <bean id="insert_ok.do" class="com.sist.model.InsertOkModel"/>
+</beans>
